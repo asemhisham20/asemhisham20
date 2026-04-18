@@ -15,6 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-hisham-537116221/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemhishamzsc@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-663399?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-delta-one-73.vercel.app/)
+
 
 </div>
 
